@@ -172,7 +172,7 @@ article p{
 }
 form{
     margin: auto;
-    width: 80%%;
+    width: 80%;
     background: white;
     color: black;
     padding: 30px 40px;
@@ -223,6 +223,7 @@ button:hover{
     }
     .header-content{
         grid-column: 2/4;
+        font-size: 2em;
     }
     .mobile-menu-button{
         display: none;
@@ -231,6 +232,10 @@ button:hover{
         display: block;
         height: 100%;
         max-width: 250px;
+    }
+    .navigation>li{
+        width: 100%;
+        font-size: 1.5em;
     }
     .intro,
     .section-b,
