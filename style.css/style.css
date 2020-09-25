@@ -116,7 +116,7 @@ nav ul li a:hover{
 .section-a{
     text-align: center;
     background: #333;
-    padding-top: 1em;
+    padding: 1em .2em 1em .2em;
     color: #fff;
 }
 .section-a ul{
@@ -127,7 +127,7 @@ nav ul li a:hover{
 .section-a li{
     background: white;
     color: black;
-    margin: 1em .5em;
+    margin: 1em 1em 0 1em;
 }
 .section-a .card-content{
     margin-top: 1em;
